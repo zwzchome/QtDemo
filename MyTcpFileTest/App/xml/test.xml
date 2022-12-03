@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root Path="E:/QT_Code/work_content/Day01">
+    <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/01_QtTest">
+        <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/01_QtTest/12">
+            <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/01_QtTest/12/13">
+                <File IsDir="false" Path="E:/QT_Code/work_content/Day01/01_QtTest/12/13/01_QtTest.pro.user"/>
+            </Folder>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/01_QtTest/12/mywidget.cpp"/>
+        </Folder>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/01_QtTest/01_QtTest.pro"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/01_QtTest/01_QtTest.pro.user"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/01_QtTest/main.cpp"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/01_QtTest/mywidget.cpp"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/01_QtTest/mywidget.h"/>
+    </Folder>
+    <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/02_Hello_World">
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/02_Hello_World/02_Hello_World.pro"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/02_Hello_World/02_Hello_World.pro.user"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/02_Hello_World/main.cpp"/>
+    </Folder>
+    <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot">
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot/03_SignalAndSlot.pro"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot/main.cpp"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot/mainwidget.cpp"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot/mainwidget.h"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot/subwidget.cpp"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot/subwidget.h"/>
+    </Folder>
+    <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug">
+        <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug">
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/main.obj"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/mike.exe"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/mike.ilk"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/mike.pdb"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/mike.vc.pdb"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_mywidget.cpp"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_mywidget.obj"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_predefs.h"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/mywidget.obj"/>
+        </Folder>
+        <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/release"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/.qmake.stash"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile.Debug"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-01_QtTest-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile.Release"/>
+    </Folder>
+    <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug">
+        <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug">
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/02_Hello_World.exe"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/02_Hello_World.ilk"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/02_Hello_World.pdb"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/02_Hello_World.vc.pdb"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/main.obj"/>
+        </Folder>
+        <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/release"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/.qmake.stash"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile.Debug"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-02_Hello_World-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile.Release"/>
+    </Folder>
+    <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug">
+        <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug">
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/03_SignalAndSlot.exe"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/03_SignalAndSlot.ilk"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/03_SignalAndSlot.pdb"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/03_SignalAndSlot.vc.pdb"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/main.obj"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/mainwidget.obj"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_mainwidget.cpp"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_mainwidget.obj"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_predefs.h"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_subwidget.cpp"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/moc_subwidget.obj"/>
+            <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/debug/subwidget.obj"/>
+        </Folder>
+        <Folder IsDir="true" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/release"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/.qmake.stash"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile.Debug"/>
+        <File IsDir="false" Path="E:/QT_Code/work_content/Day01/build-03_SignalAndSlot-Desktop_Qt_5_12_3_MSVC2015_64bit-Debug/Makefile.Release"/>
+    </Folder>
+    <File IsDir="false" Path="E:/QT_Code/work_content/Day01/03_SignalAndSlot.rar"/>
+</root>
