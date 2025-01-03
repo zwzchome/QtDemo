@@ -22,8 +22,9 @@
 3、OpenCV VS2015编译的
 
 ## 二、效果展示
+![121111](https://github.com/user-attachments/assets/6ad0824e-9c91-43b2-ba01-191e72c750f7)
 
-![121111](Image/1_如何使用OpenCV进行抓图-多线程.assets/121111.gif)
+
 
 ## 三、关键代码
 
